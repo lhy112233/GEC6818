@@ -13,3 +13,4 @@
 如有疑问可发Email：1746254723@qq.com
 
 lhy-3文件时编译对的，密码：112233，不是0112233
+在GEC6818-main文件目录下输入arm-linux-gcc ./src/*c -I./include -o project -lpthread就可以编译了
